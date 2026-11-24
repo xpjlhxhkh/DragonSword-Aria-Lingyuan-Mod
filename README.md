@@ -13,13 +13,15 @@ v1.1 起，游戏内的 **头像 / 立绘 / 图标（19 个 UI 资源）** 也�
 | 文件 | 大小 | SHA256 | 内容 |
 |---|---|---|---|
 | `zzzzDS_LingyuanGS_v1.2_noinner_P.pak` | 81,789,678 B | `07E2D586…` | 公式服·**去裙内衬 + 去安全裤**，保留后侧纱带（推荐） |
-| `zzzzDS_LingyuanGS_v1.2_nopants_P.pak` | 82,447,480 B | `6371B65B…` | 公式服·去安全裤（保留裙内衬） |
-| `zzzzDS_LingyuanGS_v1.2_noback_pants_P.pak` | 79,646,839 B | `B17946F9…` | 公式服·去后带、保留安全裤 |
-| `zzzzDS_LingyuanGS_v1.2_full_P.pak` | 83,276,185 B | `BD415CFC…` | 公式服·完整版（仅移除裙摆三块低像素装饰面板 `裙-金属`） |
-| `zzzzDS_LingyuanGS_v1.2_slim_P.pak` | 81,161,151 B | `776AB1D9…` | 公式服·精简版（外裙 + 绳结 + 后带） |
-| `zzzzDS_LingyuanXS_v1.2_P.pak` | 84,898,877 B | `1A794A61…` | 素体版 |
+| `zzzzDS_LingyuanGS_v1.2_nopants_P.pak` | 82,447,450 B | `39D69C52…` | 公式服·去安全裤（保留裙内衬） |
+| `zzzzDS_LingyuanGS_v1.2_noback_pants_P.pak` | 79,646,804 B | `A39D07A8…` | 公式服·去后带、保留安全裤 |
+| `zzzzDS_LingyuanGS_v1.2_full_P.pak` | 83,276,158 B | `99073BC4…` | 公式服·完整版（仅移除裙摆三块低像素装饰面板 `裙-金属`） |
+| `zzzzDS_LingyuanGS_v1.2_slim_P.pak` | 81,161,124 B | `158C903C…` | 公式服·精简版（外裙 + 绳结 + 后带） |
+| `zzzzDS_LingyuanXS_v1.2_P.pak` | 84,898,852 B | `C5145BAE…` | 素体版 |
 
 > 全部 6 个变体都已带 v1.2 的模型修正（手指硬分指 + 袖子投射绑定）。
+>
+> 2026-11-24 修复：除 noinner 外的 5 个包，首次上传的版本内部资产名/骨架引用有误（装上后游戏里只剩武器、人形不见），已重新构建并覆盖上传；请重新下载。
 
 ## v1.2 更新内容
 
